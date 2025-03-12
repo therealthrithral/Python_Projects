@@ -16,3 +16,5 @@ This is a repo of ALL the freeCodeCamp python projects I have worked on while wo
 1. Password Generator
 2. Shortest Path Algorithm
 3. Tower of Hanoi - Iterative and Recursive - I decided to have these in two separate files so either version can be used independently.
+4. Merge Sort Algorithm - Sorts list using Merge Sort Algorithm
+5. **Time Calculator** Takes time and time to be added in hours and minutes + optional day of the week to start on, and returns the time added to the original date, with the correct day of the week
