@@ -15,3 +15,4 @@ This is a repo of ALL the freeCodeCamp python projects I have worked on while wo
 ## Scientific Computing With Python - Part 2
 1. Password Generator
 2. Shortest Path Algorithm
+3. Tower of Hanoi - Iterative and Recursive - I decided to have these in two separate files so either version can be used independently.
