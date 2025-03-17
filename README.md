@@ -22,5 +22,11 @@ This is a repo of ALL the freeCodeCamp python projects I have worked on while wo
 1. Sudoku Solver
 2. Binary Search Tree
 3. **Budget App**
-## Scientific Computing With Python - part 4
+## Scientific Computing With Python - Part 4
 1. Vector Space
+2. Equation Solver
+3. **Polygon Calculator**
+
+## Scientific Computing With Python - Part 5
+1. Trajectory Calculator
+2. **Probability Calculator**
